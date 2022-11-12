@@ -10,10 +10,12 @@
     background-color: #a5bfd9;
     color: rgb(242, 244, 245);
     display: flex;
+    position: sticky;
     
 }
 .brand{
     margin: 20px 50px 5px 20px;
+    display: flex;
 }
 li{
     text-align: right; 
